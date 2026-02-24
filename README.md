@@ -6,4 +6,4 @@ Hey this is my class note for SE_97 Technical Writing.
 
 - **Name:** Jinsu Kim (Jin)
 - **Generation:** GenTen
-- **Major:** Software Engineering
+- **Program:** Software Engineering
